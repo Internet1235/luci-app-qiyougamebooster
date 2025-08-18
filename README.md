@@ -8,7 +8,7 @@
 
 ### 1.使用``git clone``克隆到源码中:
 ```bash
-git clone https://github.com/qiyouacc/qy-coolsnowwolf.git package/qiyougamebooster -b lua
+git clone https://github.com/Internet1235/luci-app-qiyougamebooster.git package/qiyougamebooster -b lua
 ```
 
 #### 在配置菜单中添加奇游加速器:
