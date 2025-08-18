@@ -8,7 +8,7 @@
 
 ### 1.使用``git clone``克隆到源码中:
 ```bash
-git clone https://github.com/qiyouacc/qy-coolsnowwolf.git package/qiyougamebooster
+git clone https://github.com/Internet1235/luci-app-qiyougamebooster.git package/qiyougamebooster
 ```
 
 #### 在配置菜单中添加奇游加速器:
@@ -18,7 +18,7 @@ make menuconfig
 #### 在``LuCI -> Applications``勾选``luci-app-qiyougamebooster``,选择``Save``保存并选择``Exit``退出即可。
 
 ---
-### 当前分支仅支持LuCI2(OpenWrt21.02-24.10), 如要在LuCI(OpenWrt-18.06)上使用，请前往lua分支或[点击这里](https://github.com/qiyouacc/qy-coolsnowwolf/tree/lua)
+### 当前分支仅支持LuCI2(OpenWrt21.02-24.10), 如要在LuCI(OpenWrt-18.06)上使用，请前往lua分支或[点击这里](https://github.com/Internet1235/luci-app-qiyougamebooster/tree/lua)
 
 ## 使用效果
 ![screenshots](./docs/1.jpeg)
